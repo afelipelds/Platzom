@@ -1,0 +1,27 @@
+{
+  "name": "platzom",
+  "version": "0.1.0",
+  "description": "módulo que traduce palabras en otro idioma",
+  "main": "dist/src/platzom.js",
+  "scripts": {
+    "build": "babel src/platzom.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afelipelds/Platzom.git"
+  },
+  "keywords": [
+    "platzi",
+    "fundamentos",
+    "js"
+  ],
+  "author": "Andrés Eslava Zuluaga <afelipelds.ez@gmail.com> (https://www.facebook.com/661998722)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.5.1",
+    "chai": "^4.0.2",
+    "mocha": "^3.4.2"
+  }
+}
