@@ -1,5 +1,5 @@
 {
-  "name": "platzom",
+  "name": "af-platzom",
   "version": "0.1.0",
   "description": "módulo que traduce palabras en otro idioma",
   "main": "dist/src/platzom.js",
